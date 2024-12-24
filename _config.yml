@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title222"
+title                    : "Site Title2223"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -112,7 +112,7 @@ analytics:
 
 # Header
 header:
-  image: /assets/images/header.jpg
+  image: assets/images/header.jpg
 
 # Site Author
 author:
